@@ -8,7 +8,7 @@ int main() {
 	       "I mainly do C/C++ alongside some Python. My code ain't the prettiest so bear with\n" \
 	       " the jank and spaghetti.\n\n" \
 
-	       "This repository is only for testing the \'git commit\' command.\n");
+	       "This repository is only for testing the commandline \'git\' commands.\n");
 
 	return 0;
 }
